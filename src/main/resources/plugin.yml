@@ -1,0 +1,13 @@
+name: SurvivalCore
+version: ${project.version}
+main: net.wezland.survivalcore.SurvivalCore
+prefix: WezCore
+authors: [1024TB]
+description: WezCore for survival.
+website: wezland.net
+
+commands:
+  fly:
+    usage: /<command> [player] [enable | disable | on | off]
+    aliases: [wezfly, volar]
+    description: fly command

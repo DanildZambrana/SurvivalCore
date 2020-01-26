@@ -1,0 +1,22 @@
+
+lang:
+  prefix: "&7[&1&lWez&b&lLand&7]&r"
+  success:
+    fly-enabled: "{prefix} Modo de vuelo abilitado"
+    fly-disabled: "{prefix} Modo de vuelo desabilitado"
+    others:
+      fly-enabled: "{prefix} Modo de vuelo abilitado para '{0}'"
+      fly-disabled: "{prefix} Modo de vuelo desabilitado '{0}'"
+  error:
+    incorrect-usage: "{prefix} Uso incorrecto, el uso correcto es: {0}"
+    player-not-found: "{prefix} El jugador '{0}' No fue encontrado"
+    flying-its-enabled: "{prefix} El jugador '{0}' ya esta en modo de vuelo"
+    flying-its-disabled: "{prefix} El jugador '{0}' no esta en modo de vuelo"
+    no-permission: "{prefix} No tienes permisos para ejecutar esta accion"
+    fly-not-allowed: "{prefix} El modo de vuelo no esta permitido en este mundo"
+
+config:
+  disabled-worlds:
+    - world
+    - world_the_end
+    - world_nether

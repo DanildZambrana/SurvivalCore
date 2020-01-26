@@ -1,0 +1,13 @@
+lang:
+  prefix: "&7[&1&lWez&b&lLand&7]&r"
+  success:
+    teleported: "{prefix} Teletransportado correctamente a: &e{0} - {1} - {2}"
+  error:
+    incorrect-usage: "{prefix} Uso correcto: {0}."
+    no-permission: "{prefix} No tienes permisos para ejecutar esta accion"
+    player-not-found: "{prefix} El jugador '{0}' No fue encontrado"
+settings:
+  distance: 1000
+  center-x: 0
+  center-y: 0
+  max-intents: 10

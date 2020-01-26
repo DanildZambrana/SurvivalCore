@@ -1,0 +1,8 @@
+wezcore:
+  fly:
+    use: "Permite usar el comando  /fly"
+    others: "Permite usar el comando fly en otros"
+    bypass: "Ignora los mundos bloqueados"
+  randomtp:
+    use: "Permite usar el comando /randomtp"
+    others: "Permite usar el comando randomtp en otros"
